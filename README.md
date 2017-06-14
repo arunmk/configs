@@ -2,6 +2,7 @@
 Configurations for vimrc git etc
 
 vimrc:
-- Copy vimrc to ${HOME}/.vimrc
+- copy vimrc to ${HOME}/.vimrc
 
-
+gitconfig:
+- copy gitconfig to ${HOME}/.gitconfig
